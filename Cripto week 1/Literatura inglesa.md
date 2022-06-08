@@ -43,4 +43,4 @@ in the land of mordor where the shadows lie.
 ```
 A flag do challenge é o nome do ser ao qual a quarta linha se refere, Ganesh{Sauron}.
 
-Submit na flag, e foi.
+Submit na flag, e foi!

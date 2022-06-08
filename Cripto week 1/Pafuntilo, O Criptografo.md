@@ -16,4 +16,4 @@ Como observado a cifra tem uma quantidade muit proxima de frequencia entre vogai
 ```
 Ganesh{TR4N5P051T10N_RUL35}
 ```
-Submetemos a flag, e ela foi
+Submetemos a flag, e ela foi!

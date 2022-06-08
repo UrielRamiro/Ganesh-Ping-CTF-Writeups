@@ -11,4 +11,4 @@ Ao colocar o ciphertext em um decodificador de bacon teremos o seguinte plaintex
 ```
 BACONEHBOMHEINGURIZADAEAFLAGEHGANESHSOTEMLINDX
 ```
-Submetemos a flag, e foi
+Submetemos a flag, e foi!
