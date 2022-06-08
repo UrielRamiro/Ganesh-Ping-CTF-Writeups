@@ -1,1 +1,1 @@
-# Ganesh-Ping-CTF-Writeups
+# Ganesh Ping CTF Writeups
